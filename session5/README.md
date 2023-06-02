@@ -15,5 +15,5 @@ This file contains the code **block 7**.
 It has the definition of the model or the Neural Net.
 
 ### utils.py
-
+![Model Summary](session5/s5_model_summary.png)
 ![s5 Model Summary](https://github.com/satya-pattnaik/deep_learning/blob/main/session5/s5_model_summary.png?raw=true)

@@ -2,7 +2,7 @@
 
 ## Abstract
 This repo has the solution to Session 5 - **Pytorch 101**
-![image.png](attachment:image.png)
+![image](https://github.com/satya-pattnaik/deep_learning/assets/22102468/e6278ad7-a34f-483a-953e-a0bce60de0b6)
 
 ## Code Structure
 The code is divided into the following strcture

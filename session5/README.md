@@ -60,7 +60,13 @@ class Net(nn.Module):
 ```
 
 ### utils.py
-
+- training_data_transformer : Utility function to transform training data.
+- test_data_transformer : Utility function to transform training data.
+- plot_images_in_batch : Utility function to plot the data samples in batches
+- get_losses : Utility function to get losses and accuracy for the current session.
+- GetCorrectPredCount : Utility function to estimate training accuracy and loss.
+- train - Utilty function to train the model.
+- test - Utilty function to test the model.
 
 <img width="617" alt="s5_data" src="https://github.com/satya-pattnaik/deep_learning/assets/22102468/2f00c006-f574-454c-942e-177101b3dcf5">
 

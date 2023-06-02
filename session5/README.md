@@ -16,4 +16,4 @@ It has the definition of the model or the Neural Net.
 
 ### utils.py
 
-![image-2.png](attachment:image-2.png)
+![s5_model_summary.png](attachment:s5_model_summary.png)

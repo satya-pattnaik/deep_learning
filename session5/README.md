@@ -1,8 +1,9 @@
 # Session 5 - Solution
 
 ## Intorduction
-This repo has the solution to Session 5 - **Pytorch 101** from **https://theschoolof.ai/**.
 <img width="370" alt="Screenshot 2023-06-03 at 1 48 00 AM" src="https://github.com/satya-pattnaik/deep_learning/assets/22102468/18d52d52-354d-480c-92f1-d90a040e74b7">
+
+This repo has the solution to Session 5 - **Pytorch 101** from **https://theschoolof.ai/**.
 
 The contents of the Session were as follows:
 - Introduction to PyTorch

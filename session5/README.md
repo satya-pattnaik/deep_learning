@@ -1,8 +1,29 @@
 # Session 5 - Solution
 
-## Abstract
-This repo has the solution to Session 5 - **Pytorch 101**
+## Intorduction
+This repo has the solution to Session 5 - **Pytorch 101** from **https://theschoolof.ai/**.
 <img width="370" alt="Screenshot 2023-06-03 at 1 48 00 AM" src="https://github.com/satya-pattnaik/deep_learning/assets/22102468/18d52d52-354d-480c-92f1-d90a040e74b7">
+
+The contents of the Session were as follows:
+- Introduction to PyTorch
+- PyTorch vs TensorFlow
+- Tensors
+- AutoGrad
+- Tensors and Numpy
+- Sharing Memory for Performance
+- Tensor Indexing
+- Squeezing and Unsqueezing and Other Operations
+- Writing a NN from scratch in Pytorch:
+- Working with dataset
+- Building a network
+- Accessing the weights
+- Forward Function
+- Training
+- Loss
+- Gradients
+- Weight Updates
+- Batch Training
+- Epochs
 
 
 ## Code Structure
